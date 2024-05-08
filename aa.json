@@ -1,1 +1,9 @@
-111
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dddfff.testlink2",
+    "sha256_cert_fingerprints":
+    ["47:B1:33:CD:4B:9B:11:76:23:29:B9:B1:5C:83:EC:5D:2D:3D:AF:7B:63:D4:A2:AB:FE:3F:0E:F1:94:0A:A8:47"]
+  }
+}]
